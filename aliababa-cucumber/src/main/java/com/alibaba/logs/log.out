@@ -1,0 +1,317 @@
+2022-05-16 18:05:74 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-16 18:05:408 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 17:05:953 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 17:05:628 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 17:05:823 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 17:05:703 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:791 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:863 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (7eb05671f474079df4738b8aa26db829)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 21:05:453 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:348 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:770 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (fff96c9e934a17d3edadc80f3ce5c826)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 21:05:219 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:510 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (311688c5505398ef999bb152e9d2e7eb)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 21:05:207 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:264 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (2030f4ef175fc5e31df76a1ad0309457)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 21:05:381 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:133 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (b7069b442d3e177a4b80a7368b80a2aa)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 21:05:839 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:01 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (9316347df37e0692b11bbe19aa06c4b8)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 22:05:787 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 22:05:102 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (1c6cf16300d1d5074b376164a58703fa)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 22:05:187 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 22:05:110 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (e5e934b09ca383b279e1bd7c492172da)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 22:05:759 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 22:05:406 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (9971b87c91ce473a86e110b3e0a3ff81)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 22:05:269 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 22:05:546 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (e815630c2028d29e47816a9025ce376f)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 22:05:90 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 22:05:43 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (b7cb4f2e676b456f6af55e34b01269b7)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 22:05:311 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 22:05:537 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (fe10647aa029df6e08f557c39317401e)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 22:05:341 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 22:05:978 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (b5b255fc64d401819730802ecf20d501)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:216 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:406 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (caa966eeeb115e2eb6d86f6f0755bfdc)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:955 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:914 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (62e2b50c5c61383c57393f3a3bb185ac)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:687 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:427 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (ba4eae2256369f050fd4f86c5b278ca1)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:919 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:923 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:432 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (f36364b09642ee711c257afbe8120ef4)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:675 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:302 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (a347962f36455375d7c6fde0fbf2a877)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:514 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:941 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (8cccc85a42ee02fa7b0f357a11dc68c4)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:817 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:550 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (3e228d9916006bdd42a86d8d73efbbc4)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:241 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:345 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:471 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (79f9e542f2833c591a2bfc890bc1f0d1)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:711 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:560 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (d20efbee8bd2e73a21614f3798f5acff)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:41 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:107 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:66 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (64be031abe828087fd324cb002a6e897)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:309 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:801 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (39495a70cdb1392a048269a8741ed1b6)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:127 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:751 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:601 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (a5e09c671aeb4d1bb48ec5195226253e)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:416 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:297 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (f8ffc615262591798c1d85a46887f00c)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:465 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:209 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (5564eea02b4c0bdd2c9148ef47a86b78)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:707 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:564 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (b05b1e52bae17076839ceeb46ce5b2a2)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-17 23:05:893 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:528 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:453 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 23:05:220 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (85fea7914e1fc940e32013375f09e9b1)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 09:05:586 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 09:05:559 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 09:05:585 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (b23be6809ddcabf1b6ea079cb4411dde)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 09:05:753 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 09:05:229 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (93033b769e96823ea3d9485029748790)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 10:05:580 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 10:05:393 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (6f891bef2c071295c665e0efec36bf4e)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 10:05:918 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 10:05:143 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (3cb0fcb1bca6f6ea9485e9e23852a1f0)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 10:05:811 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 10:05:137 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (f3ec57276623ae98e66f61790f3fa5ad)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 10:05:180 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 10:05:921 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (2aac1209073408e4860b244f745f17c4)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 10:05:606 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 10:05:59 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (9dd66a2b8a6420251553e724e147c2be)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 10:05:618 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 10:05:937 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (b0e02edd592f55eed49ee5b9296b113a)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 10:05:631 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 10:05:342 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (41f96f09c6ed45a995f48bc2931d5659)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 10:05:905 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 10:05:938 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (c09de4cec98f85c9dc7377265af0c3d1)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 10:05:931 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 10:05:301 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (0cbe590d5041af21e37edb8402396ee3)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 10:05:691 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 10:05:64 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (545e744895b45f32704f31b878ec20ed)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 10:05:388 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 10:05:854 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (33ec21de07fada7a939d842f1911a048)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 10:05:968 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 10:05:88 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (f16e7390fb707448e42b6f963ba5db4d)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 10:05:730 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 10:05:787 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (dbbceb47b9ad535ad4da83bcd5cf5ae1)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 10:05:226 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 10:05:331 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (beb955dd92f69e23045c9c464c5ee7e2)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:146 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:396 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (ffb4de8eb34acc47974080f3990b7f11)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:980 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:358 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (988286a3e9f4761a0234ea13e6d8f130)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:605 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:525 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:912 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (35b8a933a2c86bc77d2c2fd0939f367f)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:710 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:886 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (12845c278e5c910f64000672b26caf30)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:76 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:244 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (125e034dcfd22c04a539236c7a320200)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:996 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:737 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (e80b213478c85245be060dfcc7522a72)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:838 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:190 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (b1cf28ea8309ed0ddaf2fb3a632f4cc3)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:725 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:992 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (7d2be9d6da42b559acb09137a6016d0c)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:394 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:451 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (b4a7aacb7752495afc39d8f0ca1d64e5)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:07 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:524 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (3b6dac406851a69d838f23e8afc99cba)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:169 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:601 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (ff934e14d5a62fbe38a3909ebe9e2bd4)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:33 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:412 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (f8d461388bae46f0ac5a9cec074b2995)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:784 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:65 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (487c7bf4765b23de7422bbcb2ae82e0e)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:240 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:115 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (5b4a2d776f277f3871710ac44015ae0a)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:35 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:323 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (72c0d963cfd8e72cc68ce303b252fd03)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:849 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:774 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (901599f2866a5cd3c698f62b7ab0e319)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:565 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:240 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (fb9c98c2aec520d6f3dc7cd2a04b1f4e)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:887 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:625 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (bcb6c4fdae783e3146c5d50b2969421a)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:182 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:344 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (02559c581b505b5fee21de650e3142ec)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:112 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:332 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (859f33de6a0dd0d014c44af2e1b6ddc3)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:118 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:933 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (eaa566b23c53ae60818078be8b0c60d6)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:612 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:738 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (13b40975fb8f69b4c36c7eefe631d138)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:152 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:712 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (31497e525ae55cb7ea84b9a8b8e05a71)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:262 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:597 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (b5c8cb11b171d7bd2f882c57ddbcaff5)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:443 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:676 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (41d40ad48d388c51c4b5125be4af722a)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:326 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:881 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (d347146f4d3f6e19582d48133ba9090e)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 11:05:187 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 11:05:70 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (1cde3aa6fd8504582e7b88d403c56ade)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:281 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:117 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (d7c2963bf11d5adced968e4d3247b7bc)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:441 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:547 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (076f795a4a622b5f2bad7874ed332dc9)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:601 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:860 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (d6a518a0bc44bb2b59b8b794aec28dba)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:581 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:672 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (0cb0613328e7824c3ac75d48854a3413)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:193 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:651 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (6732f498ed6b81c70ff41fdcf13c4509)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:291 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:317 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (36b2867f7e8afd24e7a34c12f0908bd9)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:201 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:182 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (5a615e08b524f475270a636be0b1f93e)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:940 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:180 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (299a7165ceaa3ade526d90ccfc9c85fa)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:993 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:905 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (cee4dfe64ae9e68a0e85ec26fb1d37d1)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:386 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:667 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (49a5e3bddc5d547d6c25efd6a222b767)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:990 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:452 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (44ca7d9679ac43352d37b96d07bfeb4d)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:225 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:800 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (479af8c857121a20acf0eb7777912940)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:671 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:934 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (e3de2a8343a9f366e509beb60e618d91)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:220 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:139 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (4365b6d5056ad4807ad9a42ea039a86a)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:401 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:959 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (b64962e74a74ef17a4e751d6bd4cbca9)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:403 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:221 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:614 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (5462c9f801450978d28f632db573e7fb)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:502 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:258 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (7f066508e20944e970e6430c6fcd0b43)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:69 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:187 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (d2d337750dc5563cb10a62bee3878167)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:119 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:643 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (860edf82608c58530a8c061bf1795313)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:195 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:461 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (711a0eac00766dd02b167d28692d0f1f)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:204 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:133 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (a8d49c7c470de11433975dc5df69ad16)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:498 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:663 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (06009c36b4db0106ff2b515f5eb1fbea)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:447 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:514 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (a7d5f0877c4e54219aa742fa315468e1)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:286 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:632 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (59d9364364248c9e1d42704a680583cc)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:67 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:10 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:753 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (7d0a207c606638269a24146799fbd98b)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:592 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:814 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (42e4b9a8338212b82a4417ada78d198b)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:261 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:81 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (2fca72715588f47adae9a2062918098a)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 12:05:105 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 12:05:850 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (8d7302d092d5400410458ad0195da557)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:720 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:990 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (35fb95e5282e1279b972092c38d93c62)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:739 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:269 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (9b3912ee66b69c1fb859d2ee3bc5730c)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:201 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:830 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (c270d8ddba7aefd3cd6c506b812b0d65)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:999 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:923 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (734d245bf6cfd89af878d47ae10532cc)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:839 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:992 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (c1f32ea1d5291686d81b3b6077c4c16b)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:154 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:686 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (d8cf33a3b389632203ee468e9398c546)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:839 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:963 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (f41b2eea76c0953be4d2639cef92a312)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:859 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:99 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (7b87bcb8888c479acbe3b636b45fc1c5)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:799 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:213 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (777adf7a6cc18e3d13f3ae8e79d3ea14)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:429 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:266 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (ef321ee0eaa5c26d62997ecebc08a458)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:694 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:417 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (2c3175d486712f289da8391cb64c3bc2)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:378 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:877 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (8be70bc290f746fd1ba359016c82445c)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:238 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:742 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (f1922e59606a23ee1e7f55d1492e60e5)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:968 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:181 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (08371541f3391a3e7533c982b0de0859)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:63 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:190 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (f2aae1d8692ebcd0744d0217e4149ccc)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:38 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:596 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:461 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (f86635fa9e92e49dbc2be63d21c78bad)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:733 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:345 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (a4ab92365259baa3c75935594c6fb596)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:723 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:921 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (1a9d3fb16562faf941d6cfc6d805b977)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:508 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:58 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:640 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (fac3bf5903e0ce6879ee02872577ef39)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:438 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:989 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (f8315488e4baa1841d1cca2e159e3e3e)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:93 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:83 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (a4ef919944c7df21291ba5bf5da4250a)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:833 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:309 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (e9aa9ceb146de6f5ad6fc85150692f30)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:902 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:19 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (956c0c173db6add347a498c4568cc30f)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:48 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:909 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (058af38e42a9fba32b44cb68635bf18b)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:180 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:919 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (4b59fdee16c17728424d3a15088557a9)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:397 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:711 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (e69a329d6cfeeed6002e8eab856c49d6)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:684 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:145 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (2a82afb6ffd87c5d8b701a2de82b045b)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:981 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:100 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (665926916209ab28519d79686562edbd)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:761 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:298 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (58753bccac785112ffb43ddfe6630e6d)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:166 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:691 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:564 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (96d8098d2152d51523173bae1d971c60)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:256 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 13:05:636 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (0e401396c325cee21d264c238b44dce4)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 13:05:111 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:98 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:260 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (e8a15f151f0ba1d4d70846ba16c32d7a)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 19:05:10 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:966 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:82 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (e7a8ea034fc9323763d18390049307cc)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 19:05:788 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:723 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:100 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (86c1caee4f30bd6a136129cb55d98dde)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 19:05:856 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:929 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:678 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (37b27400f80f491f0ae2ffbccd042291)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 19:05:663 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:33 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (0d08cb8c802b27eb893c279de39cb10f)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 19:05:597 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:230 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (cdde1ff85a0ec2f99f6434cedd0779a8)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 19:05:880 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:135 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (d1a1eadc5ec6e95fe93011dc0be2ab4d)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 19:05:799 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:412 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (696fffbbdbbeb184e158c37af8812131)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 19:05:587 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:759 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:406 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (1bc8a0e5b40a57f72274a8980cee2a6f)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 19:05:877 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:862 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (9d30c1b5ce267b9b623af7dfc1999c76)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 19:05:133 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:426 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:690 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (48f292e5fa4a441097ce7076ff0de046)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 19:05:307 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (d0206dcf2a9b8abff3571e0a10565477)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 19:05:08 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:557 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (6f06cb8272ca09a2e13a51a8c110b983)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 19:05:458 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:296 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (ac5af913156210721a5df22853268858)] -> xpath: //a[normalize-space()='Top-ranked Products']]
+2022-05-18 20:05:992 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 20:05:28 INFO  HomePage :22 - click on Topranked product [[ChromeDriver: chrome on WINDOWS (361253493f5e9b17e6a55ededa81e7a8)] -> xpath: //a[normalize-space()='Top-ranked Products']]
